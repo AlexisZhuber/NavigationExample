@@ -31,7 +31,7 @@ To run the application:
 3. **Build and Run:**  
    Compile the project and run it on an emulator or a physical device.
 
-For a comprehensive, step-by-step tutorial on how the navigation is implemented with Jetpack Compose, please visit the detailed post on my [blog](https://yourbloglink.com).
+For a comprehensive, step-by-step tutorial on how the navigation is implemented with Jetpack Compose, please visit the detailed post on my [blog](https://alexismoraportal.com/blog/NavigationJetpackComposeTutorial).
 
 ## Built With
 
